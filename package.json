@@ -1,0 +1,9 @@
+{
+  "name": "isomorphic-poller",
+  "version": "0.0.0",
+  "description": "configurable, flexible, cancellable, isomorphic  poller",
+  "main": "dist/index.js",
+  "repository": "https://github.com/kimochg/isomorphic-poller",
+  "author": "LIU CHENG <kimochg@outlook.com>",
+  "license": "MIT"
+}
